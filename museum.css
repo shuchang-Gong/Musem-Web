@@ -1,0 +1,27 @@
+/**  class  **/
+.images{ text-align: center;}
+.table-row{text-align: justify; }
+.tableRow1{align: left;}
+.tableRow2{align: right;}
+.dateSize {font-size: x-small}
+.newsTitle{font-size: x-large; font-weight: bold;}
+.book{font-weight: bold; font-size: large;}
+.displayTitle{font-weight: bold; font-size: large;}
+.displayImage{ style: width;}
+.inputBorder{  color: orchid; opacity:1;}
+.tableText{font-size: large;}
+.signtable{font-size: x-large; font-weight: bold; text-align: center;}			
+.buying{text-align: rigth;}
+			
+/**  id  **/
+#background-c{background-color: #ECEDE!;}
+
+/**
+body {background-color: lightblue;}
+
+*
+table, th, td { border: 1px solid black;}
+**/
+img { max-width: 100%; max-height: 100%;}
+h1{font-size: xx-large;}
+body {background-color: #F2F4F4 ;}
